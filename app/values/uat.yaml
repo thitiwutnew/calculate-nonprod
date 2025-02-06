@@ -1,7 +1,7 @@
 ENV: dev
 API:
   Image: "habor.analytichpxv3.online/kubernetes-workshop/new-api"
-  ImageTag: "dev-64b4134"
+  ImageTag: "dev-f1b53fe"
   API_KEY: "testets"
 UI:
   Image: "habor.analytichpxv3.online/kubernetes-workshop/new-ui"
