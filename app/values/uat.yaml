@@ -1,7 +1,7 @@
 ENV: uat
 API:
   Image: "habor.analytichpxv3.online/kubernetes-workshop/new-api"
-  ImageTag: "dev-f1b53fe"
+  ImageTag: "uat-283eb57"
   API_KEY: "key-uat"
 UI:
   Image: "habor.analytichpxv3.online/kubernetes-workshop/new-ui"
