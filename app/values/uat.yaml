@@ -5,4 +5,4 @@ API:
   API_KEY: "key-uat"
 UI:
   Image: "habor.analytichpxv3.online/kubernetes-workshop/new-ui"
-  ImageTag: "uat-3b868f1"
+  ImageTag: "uat-deece17"
